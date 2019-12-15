@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17cd72b5-6602-485d-85cf-8dced8a04426" name="Default Changelist" comment="" />
+    <list default="true" id="17cd72b5-6602-485d-85cf-8dced8a04426" name="Default Changelist" comment="initial version">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication_dotNet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication_dotNet/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="WebApplication_dotNet" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -89,8 +94,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576440419133</updated>
-      <workItem from="1576440423154" duration="1410000" />
+      <workItem from="1576440423154" duration="2329000" />
     </task>
+    <task id="LOCAL-00001" summary="initial version">
+      <created>1576452742133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576452742133</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial version">
+      <created>1576452776853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576452776853</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial version">
+      <created>1576452876530</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576452876530</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +125,51 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial version" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial version" />
+  </component>
   <component name="WindowStateProjectService">
     <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1576452825766">
       <screen x="0" y="0" width="1680" height="1050" />
@@ -119,5 +191,9 @@
     </state>
     <state width="1638" height="295" key="GridCell.Tab.0.right/-1920.58.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1576452335375" />
     <state width="1638" height="295" key="GridCell.Tab.0.right/-1920.81.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1576452825765" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1576453055500">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/-1920.58.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1576453055500" />
   </component>
 </project>
