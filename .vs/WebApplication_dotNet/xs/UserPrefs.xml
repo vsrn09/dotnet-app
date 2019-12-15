@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{FE3C24F0-DCDB-4060-B854-BA953E0831D5}|">
+  <MonoDevelop.Ide.ItemProperties.WebApplication__dotNet PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="index.aspx.cs">
+    <Files>
+      <File FileName="index.aspx.cs" Line="40" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApplication_dotNet" expanded="True">
+            <Node name="WebApplication_dotNet" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="index.aspx" expanded="True">
+                <Node name="index.aspx.cs" selected="True" />
+              </Node>
+              <Node name="Web.config" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
