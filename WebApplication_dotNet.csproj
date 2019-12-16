@@ -15,7 +15,7 @@
 
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
   
-  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+ <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
@@ -25,7 +25,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   
-  <PropertyGroup Condition=" '$(Configuration)' == 'Latest' ">
+ <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Latest|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
