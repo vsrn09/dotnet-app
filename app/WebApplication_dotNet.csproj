@@ -19,6 +19,7 @@
     <PackageReference Include="Microsoft.AspNetCore.All" Version="$(AspNetCoreVersion)" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="2.0.0" />
     <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.0.0-rtm-10056" />
+    <PackageReference Include="System.Web" />
   </ItemGroup>
   
   <ItemGroup Condition="'$(TargetFrameworkIdentifier)'=='.NETFramework'">
