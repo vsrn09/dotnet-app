@@ -2,7 +2,7 @@
     "kind": "Template",
     "apiVersion": "v1",
     "metadata": {
-        "name": "dotnet-mssql-example",
+        "name": "dotnet-app",
         "annotations": {
             "openshift.io/display-name": ".NET using Microsoft SQL Server Example",
             "description": "An example .NET Core application.",
