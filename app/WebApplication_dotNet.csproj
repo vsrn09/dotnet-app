@@ -4,7 +4,7 @@
 
   <PropertyGroup>
     <Description>Music store application on ASP.NET Core</Description>
-    <TargetFrameworks>netcoreapp2.1;net480</TargetFrameworks>
+    <TargetFrameworks>netcoreapp2.1;net452;net480</TargetFrameworks>
     <DefineConstants>$(DefineConstants);DEMO</DefineConstants>
     <MvcRazorCompileOnPublish>true</MvcRazorCompileOnPublish>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
